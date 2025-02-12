@@ -1,0 +1,18 @@
+<suite name="RegressionSuite">
+    <test name="Functionality Test">
+        <classes>
+            <class name="org.example.Login"/>
+
+        </classes>
+    </test>
+    <test name="Functionality Test">
+        <!--<classes>
+           <class name="com.example.tests.SearchTest">
+                <methods>
+                    <include name="searchByProduct"/>
+                    <exclude name="searchByCategory"/>
+                </methods>
+            </ class>
+        </classes>-->
+    </test>
+</suite>
